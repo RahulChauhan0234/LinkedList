@@ -7,9 +7,9 @@ struct node
 
 }*front,*rear;
 
-struct node* enqueue(struct node* Rear);
-void dequeue(struct node* Front);
-void display(struct node* Rear);
+struct node* enqueue(struct node* );
+void dequeue(struct node* );
+void display(struct node* );
 void main()
 {
 	int choice;
